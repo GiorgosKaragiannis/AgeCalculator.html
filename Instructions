@@ -1,0 +1,6 @@
+Instructions to Run the Project:
+Hey! If you want to see this Age Calculator project running on your computer, it's super easy.
+All you have to do is make sure those three files, index.html, style.css, and script.js are all saved together in the exact same folder on your hard drive.
+Once they're all there, just find the index.html file and double-click it. Your browser (like Chrome or Firefox) will automatically open the page.
+From there, just click inside the date box to bring up the calendar, pick a birthday, and hit the "Calculate" button. The app will immediately show you the age, and you'll be good to go!
+For more detailed context on the requirements and objectives of this project, you can refer to the original source: https://roadmap.sh/projects/age-calculator.
