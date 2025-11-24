@@ -1,0 +1,52 @@
+#header{
+    text-align: center;
+}
+
+.centered{
+    max-width: 800px; 
+    margin: 0 auto; 
+    padding: 20px;
+    background-color: white;
+    text-align: center;
+}
+
+.header_container{
+    margin-bottom: 20px;
+}
+
+#birthdate{
+    width: 280px;
+    margin: 10px auto; 
+    padding: 10px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    display: block;
+}
+
+#button {
+    width: 280px;
+    display: block; 
+    margin: 10px auto;
+    padding: 10px;
+    background-color: #666666; 
+    color: white;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
+#result {
+    width: 280px; 
+    display: block; 
+    margin: 10px auto;
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 1.1em;
+    border: 1px dashed #e9ebee;
+    box-sizing: border-box;
+}
+
+.highlight-result {
+    font-weight: bold;
+    color: #000000;
+}
